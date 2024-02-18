@@ -13,6 +13,7 @@
 		44BE30E52B82955600B84D2A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44BE30E32B82955600B84D2A /* Main.storyboard */; };
 		44BE30E72B82955800B84D2A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44BE30E62B82955800B84D2A /* Assets.xcassets */; };
 		44BE30EA2B82955800B84D2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44BE30E82B82955800B84D2A /* LaunchScreen.storyboard */; };
+		44BE30F42B8298F500B84D2A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 44BE30F32B8298F500B84D2A /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		44BE30E62B82955800B84D2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		44BE30E92B82955800B84D2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		44BE30EB2B82955800B84D2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		44BE30F32B8298F500B84D2A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				44BE30E62B82955800B84D2A /* Assets.xcassets */,
 				44BE30E82B82955800B84D2A /* LaunchScreen.storyboard */,
 				44BE30EB2B82955800B84D2A /* Info.plist */,
+				44BE30F32B8298F500B84D2A /* GoogleService-Info.plist */,
 			);
 			path = "Chating App";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				44BE30EA2B82955800B84D2A /* LaunchScreen.storyboard in Resources */,
+				44BE30F42B8298F500B84D2A /* GoogleService-Info.plist in Resources */,
 				44BE30E72B82955800B84D2A /* Assets.xcassets in Resources */,
 				44BE30E52B82955600B84D2A /* Main.storyboard in Resources */,
 			);
